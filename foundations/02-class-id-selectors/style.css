@@ -1,0 +1,19 @@
+.p_base {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd_3 {
+    font-size: 24px;
+}
+
+#div_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div_4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
