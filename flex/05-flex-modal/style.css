@@ -89,10 +89,6 @@ button.cancel {
   border: 2px solid rgb(125, 30, 30);
 }
 
-.close-button {
-  align-self: right;
-}
-
 .icon {
   flex-shrink: 0;
 }
